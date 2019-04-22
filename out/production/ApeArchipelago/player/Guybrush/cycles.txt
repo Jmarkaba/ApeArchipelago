@@ -1,0 +1,2 @@
+right,right1.png,right2.png,right3.png,right4.png,right5.png,right6.png
+left,left1.png,left2.png,left3.png,left4.png,left5.png,left6.png

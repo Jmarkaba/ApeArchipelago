@@ -1,0 +1,6 @@
+width
+height
+interactable?
+x
+y
+background?

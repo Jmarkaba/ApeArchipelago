@@ -1,0 +1,4 @@
+left,left1.png,left2.png
+right,right1.png,right2.png
+away,away1.png,away2.png
+toward,toward1.png

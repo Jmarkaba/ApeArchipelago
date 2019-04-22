@@ -1,0 +1,1 @@
+default,palm1.png,palm2.png,palm3.png,palm4.png,palm5.png,palm6.png,palm7.png
